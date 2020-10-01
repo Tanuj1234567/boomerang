@@ -17,7 +17,7 @@ Update `app/services/configService.js` with values appropriate for your group:
 1. **twitter**, **facebook**, **meetup**: Update these with your chapter's social network handles. Setting them to '' will hide the icon.
 1. Create your Google Analytics account and modify the Google Analytics tracking code in **index.html**.
 
-Additional Optional Config
+Additional Optional Configuration
 ---------------
 1. **domain**: Your custom domain name (or base appspot URL).
 1. **cover.title**: An announcement that will appear on the landing page.
